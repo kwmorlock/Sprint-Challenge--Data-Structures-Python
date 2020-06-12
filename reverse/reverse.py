@@ -48,3 +48,5 @@ class LinkedList:
         next = node.next_node
         node.next_node = prev
         self.reverse_list(next, node)
+
+
