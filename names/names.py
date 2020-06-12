@@ -1,3 +1,5 @@
+#(Hint: You might try importing a data structure you built during the week)
+
 import time
 
 start_time = time.time()
